@@ -8,3 +8,5 @@ There are a few different ways to install this project in order of preference:
 3. download zip file of project
 
 To use method 1 or 2, you will need `git` installed on your machine.
+
+![image](https://user-images.githubusercontent.com/7840285/57634652-fa69e700-7562-11e9-967f-5af13e8ea0d2.png)
